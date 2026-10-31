@@ -1,0 +1,8 @@
+<resources>
+    <!-- يمكن للتطبيق المضيف تخصيص مظهر نافذة الإصلاحات السريعة عبر هذه الخصائص مستقبلاً -->
+    <declare-styleable name="CodeAnalyzerSdk">
+        <attr name="accentColor" format="color" />
+        <attr name="errorColor" format="color" />
+        <attr name="warningColor" format="color" />
+    </declare-styleable>
+</resources>

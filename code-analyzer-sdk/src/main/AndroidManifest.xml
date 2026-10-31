@@ -1,0 +1,14 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kingid.codesdk">
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="34" />
+
+    <!-- مكتبة خفيفة الوزن لا تُعلن عن أي مكونات (لا Activities، لا Services، لا Providers).
+         يُترك التطبيق المضيف مسؤولاً عن استدعاء CodeAnalyzerSdk.initialize(context). -->
+    <application
+        android:allowBackup="false"
+        android:usesCleartextTraffic="false" />
+
+</manifest>

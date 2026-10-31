@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KingID SDK Demo</string>
+    <string name="hint_code">اكتب أو الصق كود Java/Kotlin هنا...</string>
+    <string name="btn_analyze">فحص الكود</string>
+    <string name="btn_full_project">فحص المشروع كاملاً</string>
+    <string name="btn_clear">مسح النتائج</string>
+    <string name="results_title">نتائج الفحص:</string>
+    <string name="status_ready">جاهز. أضغط "فحص الكود" لبدء التحليل.</string>
+</resources>

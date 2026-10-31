@@ -1,0 +1,10 @@
+<resources>
+    <string name="sdk_name">KingID Code Analyzer SDK</string>
+    <string name="sdk_description">مكتبة تحليل وإصلاح الأكواد المحلية المستقلة للأنظمة Android (Java و Kotlin)</string>
+    <string name="rule_syntax_error">خطأ نحوي</string>
+    <string name="rule_missing_import">استيراد مفقود</string>
+    <string name="rule_api_deprecated">واجهة API مهملة</string>
+    <string name="rule_api_requires_higher_api">واجهة API تتطلب مستوى API أعلى</string>
+    <string name="fix_add_import">أضف استيراد تلقائياً</string>
+    <string name="fix_declare_variable">أعلِن عن المتغير</string>
+</resources>
